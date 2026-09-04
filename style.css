@@ -1,0 +1,139 @@
+body {
+    font-family: 'Times New Roman', serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    line-height: 1.6;
+}
+h1 {
+    color: #333;
+    text-align: center;
+}
+.ecuacion {
+    font-size: 24px;
+    text-align: center;
+    margin: 40px 0;
+    padding: 20px;
+    border-radius: 8px;
+}
+.explicacion {
+    margin: 30px 0;
+}
+q {
+    font-style: italic;
+}
+
+.ecuacionn { font-size: 24px;
+    text-align: center;
+    margin: 40px 0;
+    padding: 20px;
+    border-radius: 8px;
+
+}
+
+.instagram-link {
+    color: #010101;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.instagram-link:hover {
+    text-decoration: underline;
+}
+
+.instagram-img {
+    width: 40px;
+    height: 40px;
+    margin-bottom: 8px;
+    border-radius: 50%;
+}
+
+.tabla {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    text-align: center;
+}
+
+.tabla th,
+.tabla td {
+    border: 1px solid #5d0e0e;
+    padding: 10px;
+    text-align: center;
+}
+
+.tabla th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+
+.explicacion-tabla {
+    margin-top: 20px;
+}
+
+.instagram-container {
+    text-align: center;
+    margin-top: 40px;
+}
+
+/* tablas de colores */
+
+.contenedor {
+    width: 100%;
+    height: 140px;
+    margin: 10px 0;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.tabla-roja {
+    background-color: red;
+}
+
+.tabla-azul {
+    background-color: blue;
+}
+
+.contenedor .titulo {
+    font-size: 12px;
+    font-weight: bold;
+    color: #a00000;
+    height: 15px;
+}
+
+.tabla-azul .titulo {
+    color: #0000a0;
+}
+
+.contenedor table {
+    width: 65%;
+    border-collapse: collapse;
+    margin: 0;
+    font-size: 11px;
+}
+
+.contenedor th,
+.contenedor td {
+    border: 1px solid #777;
+    padding: 4px;
+    text-align: center;
+}
+
+.tabla-roja th,
+.tabla-roja td {
+    background-color: #eeeeee;
+    color: black;
+}
+
+.tabla-azul th,
+.tabla-azul td {
+    background-color: #d6c89b;
+    color: black;
+}
+
+.video-container {
+    margin-top: 60px;
+}
